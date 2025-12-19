@@ -1,5 +1,6 @@
 import React from 'react'
-import Presentation from './Presentation.jsx'
+// ts-ignore
+import Presentation from './Presentation'
 
 function App() {
   return (
